@@ -99,4 +99,4 @@ Essa experiência reforça minha jornada em **Cloud Computing e DevOps**, fortal
 ---
 📧 [biancagneves@gmail.com]  
 ---
-💼 [linkedin.com/in/biancagneves]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/biancagneves/))
+💼 [https://www.linkedin.com/in/biancagneves/]
