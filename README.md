@@ -92,7 +92,9 @@ O fluxo criado realiza as seguintes etapas:
   }
 }
 ```
-💡 Insights e Aprendizados
+---
+
+## 💡 Insights e Aprendizados
 Durante o desafio, pude compreender de forma prática:
 
 A importância de orquestrar processos em aplicações distribuídas.
@@ -105,11 +107,15 @@ A relevância de documentar e versionar projetos para aprendizado contínuo.
 
 📘 Mais reflexões e anotações podem ser encontradas no arquivo insights.md.
 
-✨ Autora
+---
+
+## ✨ Autora
 👩‍💻 Bianca Gonçalves das Neves
 📧 biancagneves@gmail.com
 💼 linkedin.com/in/biancagneves
 
-🏁 Conclusão
+---
+
+## 🏁 Conclusão
 Este desafio reforçou o poder da automação e orquestração na nuvem através do AWS Step Functions.
 Com ele, é possível criar fluxos inteligentes, reduzir falhas e aumentar a eficiência operacional de forma serverless e escalável.
