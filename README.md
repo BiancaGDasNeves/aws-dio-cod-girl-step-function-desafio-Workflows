@@ -1,6 +1,9 @@
-# aws-dio-cod-girl-step-function-desafio-Workflows
-Repositório do Desafio "Explorando Workflows Automatizados com AWS Step Functions
-# 🚀 Desafio DIO - AWS Step Functions: Automação de Workflows
+# 🧠 aws-dio-cod-girl-step-function-desafio-Workflows  
+### Repositório do Desafio: *"Explorando Workflows Automatizados com AWS Step Functions"*
+
+---
+
+## 🚀 Desafio DIO - AWS Step Functions: Automação de Workflows
 
 Este repositório faz parte do desafio **"AWS Step Functions: Automação de Workflows"** da trilha **Code Girls | DIO**.  
 O objetivo é aplicar, de forma prática, os conceitos de **automação, mensageria e orquestração de serviços AWS**, criando um workflow funcional e bem documentado.
@@ -90,19 +93,23 @@ O fluxo criado realiza as seguintes etapas:
 }
 ```
 💡 Insights e Aprendizados
-
 Durante o desafio, pude compreender de forma prática:
-1. A importância de orquestrar processos em aplicações distribuídas.
-2. Como Step Functions facilita o controle de fluxos complexos entre serviços AWS.
-3. O uso de Choice States para lógica condicional e de SNS para mensageria.
-4. A relevância de documentar e versionar projetos para aprendizado contínuo.
 
-Mais reflexões e anotações podem ser encontradas no arquivo insights.md.
+A importância de orquestrar processos em aplicações distribuídas.
+
+Como o Step Functions facilita o controle de fluxos complexos entre serviços AWS.
+
+O uso de Choice States para lógica condicional e de SNS para mensageria.
+
+A relevância de documentar e versionar projetos para aprendizado contínuo.
+
+📘 Mais reflexões e anotações podem ser encontradas no arquivo insights.md.
 
 ✨ Autora
----
 👩‍💻 Bianca Gonçalves das Neves
----
-📧 [biancagneves@gmail.com]
----
-💼 [https://www.linkedin.com/in/biancagneves/]
+📧 biancagneves@gmail.com
+💼 linkedin.com/in/biancagneves
+
+🏁 Conclusão
+Este desafio reforçou o poder da automação e orquestração na nuvem através do AWS Step Functions.
+Com ele, é possível criar fluxos inteligentes, reduzir falhas e aumentar a eficiência operacional de forma serverless e escalável.
