@@ -100,7 +100,9 @@ Durante o desafio, pude compreender de forma prática:
 Mais reflexões e anotações podem ser encontradas no arquivo insights.md.
 
 ✨ Autora
-
+---
 👩‍💻 Bianca Gonçalves das Neves
+---
 📧 biancagneves@gmail.com
+---
 💼 https://www.linkedin.com/in/biancagneves/
