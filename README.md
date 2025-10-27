@@ -103,6 +103,6 @@ Mais reflexões e anotações podem ser encontradas no arquivo insights.md.
 ---
 👩‍💻 Bianca Gonçalves das Neves
 ---
-📧 biancagneves@gmail.com
+📧 [biancagneves@gmail.com]
 ---
-💼 https://www.linkedin.com/in/biancagneves/
+💼 [https://www.linkedin.com/in/biancagneves/]
